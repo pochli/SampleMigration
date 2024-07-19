@@ -15,7 +15,7 @@ jobs:
       solution_name: Migration
       #Update your values here
       BUILD_ENVIRONMENT_URL: 'https://org323517d8.crm5.dynamics.com'
-      PRODUCTION_ENVIRONMENT_URL: 'https://org60504ac1.crm5.dynamics.com'
+      PRODUCTION_ENVIRONMENT_URL: 'https://org6b6ec096.crm5.dynamics.com'
       CLIENT_ID: '647cd2a6-1f1d-4371-951b-e6a70d5b05ed'
       TENANT_ID: '299e0b8c-6929-410b-80bd-b727761cd007'     
     secrets:
