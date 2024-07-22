@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_cr029_employee" />
+  <EntityRelationship Name="business_unit_cr029_product" />
+  <EntityRelationship Name="lk_cr029_employee_createdby" />
+  <EntityRelationship Name="lk_cr029_employee_modifiedby" />
+  <EntityRelationship Name="lk_cr029_product_createdby" />
+  <EntityRelationship Name="lk_cr029_product_modifiedby" />
+  <EntityRelationship Name="owner_cr029_employee" />
+  <EntityRelationship Name="owner_cr029_product" />
+  <EntityRelationship Name="team_cr029_employee" />
+  <EntityRelationship Name="team_cr029_product" />
+  <EntityRelationship Name="user_cr029_employee" />
+  <EntityRelationship Name="user_cr029_product" />
+</EntityRelationships>
